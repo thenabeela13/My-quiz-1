@@ -1,0 +1,60 @@
+{
+  "Science " : {
+    "Human body" : {
+      "Question1" : {
+        "Answer" : "ear",
+        "Option1" : "nose",
+        "Option2" : "ear",
+        "Option3" : "eyes",
+        "Option4" : "mouth",
+        "Question" : "The organ that allows you to hear."
+      },
+      "Question2" : {
+        "Answer" : 206,
+        "Option1" : 300,
+        "Option2" : 260,
+        "Option3" : 206,
+        "Option4" : 250,
+        "Question" : "How many bones does a human body have?"
+      }
+    },
+    "Plants" : {
+      "Question1" : {
+        "Answer" : "Leaf",
+        "Option1" : "Flower",
+        "Option2" : "Root",
+        "Option3" : "Stem",
+        "Option4" : "Leaf",
+        "Question" : "Which part of the plant takes in Oxygen?"
+      },
+      "Question2" : {
+        "Answer" : "Root",
+        "Option1" : "Stem",
+        "Option2" : "Leaf",
+        "Option3" : "Root",
+        "Option4" : "Flower",
+        "Question" : "Which part of the plant absorbs water and nutrients?"
+      }
+    }
+  },
+  "Math" : {
+    "Tables" :{
+      "Question1" : {
+        "Answer" : 32,
+        "Option1" : 43,
+        "Option2" : 23,
+        "Option3" : 32,
+        "Option4" : 58,
+        "Question" : "8 * 4 = "
+      },
+      "Question2" : {
+        "Answer" : 0,
+        "Option1" : 0,
+        "Option2" : 9,
+        "Option3" : 29,
+        "Option4" : 72,
+        "Question" : "9 * 0 = "
+      }
+    }
+  }
+}
